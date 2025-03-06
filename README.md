@@ -20,7 +20,7 @@ Before we can fully use our new ticketing system, we must add the required confi
 We will customize departments, agents, teams, hot topics, e-mails, and system preferences. 
 Be sure to remember all of the username and passwords we create during the installation process. 
 
-## The Following Will Be Configured:
+## Configuration Objectives:
 
 * Roles 
 * Departments
