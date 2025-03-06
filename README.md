@@ -46,7 +46,7 @@ Roles allow Agents to access particular departments.
 ### Step 2. Configure Departments 
 ![5  system admin department created](https://github.com/user-attachments/assets/8eb8f8e1-d64d-4554-b00a-ca6f695a434a)
 
-Departments allow the osTicket system to route tickets in the helpdesk, each department consisting of many settings.
+Departments allow the osTicket to route tickets in the Help Desk, each department consisting of many settings.
 > Under Agents tab > select Department > create “System Administration” department > ok
 
 ### Step 3: Configure Teams
