@@ -75,6 +75,7 @@ This step will allow Admins to assign Agents to be responsible for responding to
 
 This section will allow us to create Users. When a ticket is submitted, the User is linked to their email address in the Help Desk’s directory. Users can be added or removed from the directory, but since they are tied to their email and tickets, deleting a User also requires deleting their associated tickets. 
 > Agent Panel > Users > User Directory > Add New
+
 Make sure to register Users for their passwords to log in.
 
 ### Step 7: Configure SLAs ( Service Level Agreements)
