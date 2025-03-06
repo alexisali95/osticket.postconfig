@@ -83,7 +83,9 @@ Make sure to register Users for their passwords to log in.
 
 SLA Plans define the time frame within the Help Desk that is expected to resolve a ticket. 
 > Admin Panel > Manage > SLA > Add New SLA Plan > Name: SEV-A > Grace Period: 1 hour > Schedule 24/27 > Add Plan
+
 > Add second plan > Name: SEV-B > Grace Period: 4 hours > Schedule 24/7 > Add Plan
+
 > Add third plan > Name: SEV-C > Grace Period: 8 > Schedule: Mon - Friday 8am - 5pm > Add Plan
 
 ### Step 8: Configure Help Topics
