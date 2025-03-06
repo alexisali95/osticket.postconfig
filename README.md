@@ -53,7 +53,8 @@ Departments allow the osTicket to route tickets in the Help Desk, each departmen
 ![6  level 2 team created](https://github.com/user-attachments/assets/13b52d10-49a0-48e0-bdd0-c1062db4daa4)
 
 Teams allow members to create groups of Agents from different departments, giving you permission to assign tickets to separate teams based on the User's issue (Help Topic or Ticket Filter).
-> Select “Teams” tab > Add New Team > Name: Level I Support > select members 
+> Select “Teams” tab > Add New Team > Name: Level I Support > select members
+
 > Add Level II Support department 
 
 ### Step 4: Configure Settings - Allow Anyone to Create Tickets
